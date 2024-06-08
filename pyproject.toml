@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "apidemo"
+version = "0.1.0"
+description = ""
+authors = ["vikyw89 <vikyw89@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django-ninja = "^1.1.0"
+
+
+uvicorn = "^0.30.1"
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+start = "scripts.start:run"
+start_sync = "scripts.start_sync:run"
