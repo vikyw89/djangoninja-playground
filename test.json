@@ -1,0 +1,497 @@
+[
+  {
+    "title": "RAG for Pdf with tables : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/18xp9xi/rag_for_pdf_with_tables/",
+    "snippet": "Jan 3, 2024, · ,I want to built a RAG system for science documents which contains the theory texts along withn equations, tables, and labelled diagrams."
+  },
+  {
+    "title": "RAG vs. full context : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/19cpvw6/rag_vs_full_context/",
+    "snippet": "Jan 22, 2024, · ,I found that using RAG to search for documents through a vector store definitely loses some of the information, such as context, ..."
+  },
+  {
+    "title": "Challenges of Scaling RAG applications : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1by7s2m/challenges_of_scaling_rag_applications/",
+    "snippet": "Apr 7, 2024, · ,26 votes, 32 comments. I'm thinking about writing a detailed blog on the Challenges you face while scaling your RAG apps."
+  },
+  {
+    "title": "Full Document Understanding with RAG—Need Insights : r/LangChain",
+    "link": "https://www.reddit.com/r/LangChain/comments/17qsmhs/full_document_understanding_with_ragneed_insights/",
+    "snippet": "Nov 8, 2023, · ,So, I think that to answer really important questions from a complex document full of significant knowledge, we need a more advanced approach."
+  },
+  {
+    "title": "Looking for sample PDF + sample queries + responses to test RAG",
+    "link": "https://www.reddit.com/r/LangChain/comments/1c6j83s/looking_for_sample_pdf_sample_queries_responses/",
+    "snippet": "Apr 17, 2024, · ,Basically I would like to test my RAG system on a complex PDF. I assume there are some sample PDFs out there or a batch of PDF documents and ..."
+  },
+  {
+    "title": "Creating RAG Evaluation dataset manually: What to consider? - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1b0n1c9/creating_rag_evaluation_dataset_manually_what_to/",
+    "snippet": "Feb 26, 2024, · ,Hi, I want to manually create a Evaluation dataset for RAG with complex Pdfs. I already tried synthetic dataset creation but think you get ..."
+  },
+  {
+    "title": "Best stack for RAG? : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cyjfap/best_stack_for_rag/",
+    "snippet": "May 23, 2024, · ,We're building a RAG based application which works on internal documents. We're experimenting with OpenAI for embedding models, ..."
+  },
+  {
+    "title": "RAG + Prompting : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/18spba0/rag_prompting/",
+    "snippet": "Dec 29, 2023, · ,I have had RAG work in small use cases but for larger, complex implementations, it is a nightmare. I haven't seen a good production version ..."
+  },
+  {
+    "title": "Production ready? : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1b194ot/production_ready/",
+    "snippet": "Feb 27, 2024, · ,It really depends on how simple or complex your project is. Basic rag is fine with langchain but as you get more complex, langchain can be a ..."
+  },
+  {
+    "title": "RAG does not stop Hallucinations : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1amjc9g/rag_does_not_stop_hallucinations/",
+    "snippet": "Feb 9, 2024, · ,Hi,. I have a RAG app but noticed that the RAG Method does not really stop hallucinations. So I wanted to discuss which prompts or techniques ..."
+  },
+  {
+    "title": "Langchain OR Llamaindex for RAG app with Typescript - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1bemubq/langchain_or_llamaindex_for_rag_app_with/",
+    "snippet": "Mar 14, 2024, · ,Hello ! I want to develop a pretty complex RAG application. I spent my time learning concepts on both Langchain and Llamainde, ..."
+  },
+  {
+    "title": "When has it made sense to build a custom RAG solution over using ...",
+    "link": "https://www.reddit.com/r/LangChain/comments/1auviyf/when_has_it_made_sense_to_build_a_custom_rag/",
+    "snippet": "Feb 19, 2024, · ,16 votes, 21 comments. In what situations might a developer expect to get better results by making a custom RAG system instead of using a ..."
+  },
+  {
+    "title": "Insights and Learnings from Building a Complex Multi-Agent System",
+    "link": "https://www.reddit.com/r/LangChain/comments/1byz3lr/insights_and_learnings_from_building_a_complex/",
+    "snippet": "Apr 8, 2024, · ,After a brainstorm, we quickly identified that a) RAG is the main selling point, so we need something that uses a RAG; b) We believe in ..."
+  },
+  {
+    "title": "How to optimise for \"reverse\" RAG? : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1c8x0em/how_to_optimise_for_reverse_rag/",
+    "snippet": "Apr 20, 2024, · ,... prompts are complex and the outputs are not few lines but complex json outputs. It would be really helpful. TIA. Upvote 7. Downvote 5 comments"
+  },
+  {
+    "title": "Doubts about choosing vet for storage : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1b8po5e/doubts_about_choosing_vet_for_storage/",
+    "snippet": "Mar 7, 2024, · ,I'm building a complex rag system for many different kind of documents. The way I understand between the many commercially available vector ..."
+  },
+  {
+    "title": "Easiest way to improve RAG chat - help : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1c0cnyj/easiest_way_to_improve_rag_chat_help/",
+    "snippet": "Apr 10, 2024, · ,Using only basic chains: There are many complicated chains in Langchain like map-reduce etc. So, we stuck to using the basic 'stuff' chain and ..."
+  },
+  {
+    "title": "Customer Support RAG Chat-bot : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cqu5di/customer_support_rag_chatbot/",
+    "snippet": "May 13, 2024, · ,But I feel like sometimes, these kind of features are difficult to implement, or not robust and doesn't have this much value for the users. That ..."
+  },
+  {
+    "title": "RAG with legal texts : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1d6mnum/rag_with_legal_texts/",
+    "snippet": "6 days ago, · ,Help required with complex logic amalgamation. 1 upvote · 7 comments. r/LangChain icon. r/LangChain · Problem with heavy documents. 5 upvotes · ..."
+  },
+  {
+    "title": "Are LLM frameworks effective for complex tasks or better suited for ...",
+    "link": "https://www.reddit.com/r/LangChain/comments/1603kmd/are_llm_frameworks_effective_for_complex_tasks_or/",
+    "snippet": "Aug 24, 2023, · ,At first, they seemed very useful to me – I mean, with just 5 lines of code, you can implement RAG. But later, as things got more complex ..."
+  },
+  {
+    "title": "Holy f*** I have never seen such spaghetti code in my life - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/193oz8b/holy_f_i_have_never_seen_such_spaghetti_code_in/",
+    "snippet": "Jan 11, 2024, · ,94 votes, 52 comments. No wonder there barely exists tutorials or articles exploring complex workflows. To make anything other than a simple RAG"
+  },
+  {
+    "title": "Complex PDF Chunking: Which one works better for you - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1bhv87c/complex_pdf_chunking_which_one_works_better_for/",
+    "snippet": "Mar 18, 2024, · ,Hi, I built a RAG app with complex pdfs and now want to find the best chunking strategy for complex pdfs. Here I wanted to discuss if (from ..."
+  },
+  {
+    "title": "Any Suggestions for idea to built a RAG chatbot in a Hackathon?",
+    "link": "https://www.reddit.com/r/LangChain/comments/1c4t5ks/any_suggestions_for_idea_to_built_a_rag_chatbot/",
+    "snippet": "Apr 15, 2024, · ,for complex questions on insurance docs. Reply reply. u/rojwilco avatar · rojwilco. •. \"Am I Being Scammed?\", a chat bot that uses the FTC ..."
+  },
+  {
+    "title": "Best library/framework for parsing PDF documents with table inside?",
+    "link": "https://www.reddit.com/r/LangChain/comments/1c1ksv6/best_libraryframework_for_parsing_pdf_documents/",
+    "snippet": "Apr 11, 2024, · ,10 votes, 34 comments. Hello, me and my team were looking for integrate inside our RAG company model the most decent pdf parser, ..."
+  },
+  {
+    "title": "What are your best practices when using Embeddings, RAG ... - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/16idhfw/what_are_your_best_practices_when_using/",
+    "snippet": "Sep 14, 2023, · ,Nevertheless, my RAG lives in ES. It updates with near real time user interaction, as well. It's pretty complicated now that I've been building ..."
+  },
+  {
+    "title": "Which LLM framework(s) do you use in production and why? - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/18anbjf/which_llm_frameworks_do_you_use_in_production_and/",
+    "snippet": "Dec 4, 2023, · ,... RAG, agents and tool use, etc.), I wonder if ... On relevance extraction in RAG using a ... complex LLM-based application. Reply reply. Share."
+  },
+  {
+    "title": "Pdf Document preprocessing : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/16vf12c/pdf_document_preprocessing/",
+    "snippet": "Sep 29, 2023, · ,I'm wondering if I have a set of complex pdf documents containing paragraph and tables, whether the langchain document loader is enough to ..."
+  },
+  {
+    "title": "Why do the langchain docs feel so all over the place? - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/18sdap4/why_do_the_langchain_docs_feel_so_all_over_the/",
+    "snippet": "Dec 27, 2023, · ,Or their docs seem more clear to me who knows. They do have nice rag features built in for more complex retrievers etc."
+  },
+  {
+    "title": "RAG filtering docs to only send relevant data to llm : r/LangChain",
+    "link": "https://www.reddit.com/r/LangChain/comments/186sgyf/rag_filtering_docs_to_only_send_relevant_data_to/",
+    "snippet": "Nov 29, 2023, · ,Doing retrieval correctly can be quite complex, especially as your data size increases and complexity of the system grows. At r/vectara we ..."
+  },
+  {
+    "title": "RAG Accuracy : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1alus6s/rag_accuracy/",
+    "snippet": "Feb 8, 2024, · ,It works fine. For pdfs, my questions are more generic that do not need any calculations or any complex solutions. Please see my reply to u/ ..."
+  },
+  {
+    "title": "Why should I use LangChain for my new app? - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/198csjd/why_should_i_use_langchain_for_my_new_app/",
+    "snippet": "Jan 16, 2024, · ,- Using multiple models using hosted and on-prem LLMs (both OSS and OpenAI/Anthropic/etc.) - Support for complex RAG. - Support chat and non- ..."
+  },
+  {
+    "title": "RAG - Responding with multiple data types : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/191d8td/rag_responding_with_multiple_data_types/",
+    "snippet": "Jan 8, 2024, · ,For more complex formats like charts and differently arranged text, it's difficult to correctly parse the content without understanding the ..."
+  },
+  {
+    "title": "Langchain alternatives thread - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/18hd5vo/langchain_alternatives_thread/",
+    "snippet": "Dec 13, 2023, · ,For example people come up with complex ... RAG system, for example starting with this Langroid example. ... Any repos or other examples that are ..."
+  },
+  {
+    "title": "To deep dive and be good with LLMs you need a complex ... - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/16l2u62/to_deep_dive_and_be_good_with_llms_you_need_a/",
+    "snippet": "Sep 17, 2023, · ,We have been trying to build multi agents “Agent” that is part RAG, part API wrapper that manages to balance everything and still provide a ..."
+  },
+  {
+    "title": "what is the advantage of overlapping in chunking strategy - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1bjxvov/what_is_the_advantage_of_overlapping_in_chunking/",
+    "snippet": "Mar 21, 2024, · ,As you can see there is a word overlap with the chunks. What advantage does LLM get when you feed overlapping chunk2 and chunk3 to execute RAG ..."
+  },
+  {
+    "title": "What do people use for production? : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/16330n0/what_do_people_use_for_production/",
+    "snippet": "Aug 27, 2023, · ,I've setup a basic nlp pipeline for q/a docs using rag. Transition ... complex RAG using joins of other tables which have some other data ..."
+  },
+  {
+    "title": "Phi3 performing better than Llama3 on RAG for QA : r/LangChain",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cgtezt/phi3_performing_better_than_llama3_on_rag_for_qa/",
+    "snippet": "Apr 30, 2024, · ,... complex. Is this the behaviour with llama3 model or every model should have specific prompts? Thanks. Upvote 3. Downvote 1 comments"
+  },
+  {
+    "title": "r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/rising/",
+    "snippet": "RAG: How to answer \"give me all...\" question · I am ... I wanted to ask, based on your experience, what are the best open-source LLMs I can use to build complex ..."
+  },
+  {
+    "title": "Extract tables from PDF for RAG : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cn0z11/extract_tables_from_pdf_for_rag/",
+    "snippet": "May 8, 2024, · ,Depends on how complicated PDF is. But better than all those libraries. Gives 2000 free pages every month. No harm in trying out. Try both ..."
+  },
+  {
+    "title": "Will there be any difference between (RAG) openAI and Google ...",
+    "link": "https://www.reddit.com/r/LangChain/comments/1at5iyx/will_there_be_any_difference_between_rag_openai/",
+    "snippet": "Feb 17, 2024, · ,There are different options to do that.” “If the query is complex, LLM can decompose it into several sub queries. For examle, if you ask ..."
+  },
+  {
+    "title": "Is there anything LangChain can do better than using LLMs ... - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/165ajkr/is_there_anything_langchain_can_do_better_than/",
+    "snippet": "Aug 30, 2023, · ,You can do retrieval augmented generation (RAG), in which you add your own data to a vector store and the LLM uses that to generate a more ..."
+  },
+  {
+    "title": "Multimodal rag system using Open Source models : r/LangChain",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cx6eox/multimodal_rag_system_using_open_source_models/",
+    "snippet": "May 21, 2024, · ,Hi, I'm trying to develop a rag system using ... Multimodal rag system using Open Source models ... Nuxt for complex full-stack web app. 1 upvote ..."
+  },
+  {
+    "title": "Best German Embedding Model? : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1aqh168/best_german_embedding_model/",
+    "snippet": "Feb 14, 2024, · ,My use case would be a RAG app where more or less complex german docs are retrieved. I played around with several multilingual/german ..."
+  },
+  {
+    "title": "Chunking and retrieving documents with tables : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/16uip55/chunking_and_retrieving_documents_with_tables/",
+    "snippet": "Sep 28, 2023, · ,I'm thinking there are three challenges facing RAG systems with table-heavy documents: ... RAG system. ... Difficult-Tomato-624. • 4mo ago. Can I DM ..."
+  },
+  {
+    "title": "TDS Article: Visualize your RAG Data — Evaluate your Retrieval ...",
+    "link": "https://www.reddit.com/r/LangChain/comments/1boydvr/tds_article_visualize_your_rag_data_evaluate_your/",
+    "snippet": "Mar 27, 2024, · ,TDS Article: Visualize your RAG Data ... (RAG) systems: the ... To break complex hyper dimensional data into plots us 3D beings can understand."
+  },
+  {
+    "title": "Langchain needs to be rewritten - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/17n34y9/langchain_needs_to_be_rewritten/",
+    "snippet": "Nov 3, 2023, · ,... the way to go, unless ur definition of “complex” is generic llm chains like PDF rag. Upvote 1. Downvote Reply reply. Award 0 awards"
+  },
+  {
+    "title": "I want to load and encode large medical texts : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/188fwqo/i_want_to_load_and_encode_large_medical_texts/",
+    "snippet": "Dec 1, 2023, · ,Now I am searching for a good way to load a complex medical guideline (~500 pages) of PDF into a chroma DB. ... I want to build an RAG model. The ..."
+  },
+  {
+    "title": "Does a service exist that allows you to upload documents to a RAG ...",
+    "link": "https://www.reddit.com/r/LangChain/comments/1d7nf63/does_a_service_exist_that_allows_you_to_upload/",
+    "snippet": "4 days ago, · ,... , more complex documents. Seems to be more useful when the document is something like an FAQ or similar. Upvote 1. Downvote Reply reply"
+  },
+  {
+    "title": "Structure of embeddings for complex objects / how to ... - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/18djyo6/structure_of_embeddings_for_complex_objects_how/",
+    "snippet": "Dec 8, 2023, · ,Hi there, I am looking to implement a RAGish use case with python and langchain. Want to share my high level plan here and ask for your ..."
+  },
+  {
+    "title": "Text-to-SQL with extremely complex schema : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1amlftk/texttosql_with_extremely_complex_schema/",
+    "snippet": "Feb 9, 2024, · ,You need to build short pipelines that create downstream tables specifically for the LLM to query. LLMs can write complex queries, but you waste ..."
+  },
+  {
+    "title": "Hiearchical RAG - LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/17p5w5o/hiearchical_rag/",
+    "snippet": "Nov 6, 2023, · ,I am building a Retrieval-Augmented Generation (RAG) ... Hiearchical RAG. I ... We've used knowledge graphs to solve this problem for complex ..."
+  },
+  {
+    "title": "Agent that uses a vector store retriever and a websearch ... - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1auucox/agent_that_uses_a_vector_store_retriever_and_a/",
+    "snippet": "Feb 19, 2024, · ,simple RAG systems won't allow you unofortuantely to build such complex idea. you will need to implement something Self-RAG. check this ..."
+  },
+  {
+    "title": "Testing RAG chatbot : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cisa8u/testing_rag_chatbot/",
+    "snippet": "May 2, 2024, · ,Best open source models to build complex agents: 4 upvotes · 7 comments. r/LangChain icon. r/LangChain · Help on creating a ChatBot for in-app ..."
+  },
+  {
+    "title": "Need help in increasing the speed of my llm based application",
+    "link": "https://www.reddit.com/r/LangChain/comments/15rpugk/need_help_in_increasing_the_speed_of_my_llm_based/",
+    "snippet": "Aug 15, 2023, · ,I am using OpenAI's embeddings as well, the ada-002. However, the responses are very slow. For little complex questions it takes 20-30 seconds ..."
+  },
+  {
+    "title": "Should I use LangChain of just ChatGPT API? - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/17u8yrt/should_i_use_langchain_of_just_chatgpt_api/",
+    "snippet": "Nov 13, 2023, · ,u/Complex-Many1607 avatar · Complex-Many1607 ... OpenAI's retrieval API is expensive and naive RAG. ... You can connect ChatGPT with your data in ..."
+  },
+  {
+    "title": "Multimodel with RAG (vectordb) : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1b9jhm0/multimodel_with_rag_vectordb/",
+    "snippet": "Mar 8, 2024, · ,I have created a platform with document upload and search using vector db, embedding models and llm (simple RAG pattern). Now."
+  },
+  {
+    "title": "Your Experience: Best Chunking Technique for complex PDFs - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1c4nizz/your_experience_best_chunking_technique_for/",
+    "snippet": "Apr 15, 2024, · ,Your Experience: Best Chunking Technique for complex PDFs ... The PDFs I am using are all complex and many ... (RAG). 31 upvotes · 18 comments. r ..."
+  },
+  {
+    "title": "LangChain Framework vs New Assistants API with RAG - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cx1ln4/langchain_framework_vs_new_assistants_api_with_rag/",
+    "snippet": "May 21, 2024, · ,I love Langraph for more complex workflows requiring tighter control. Also langsmith for analytics,which I miss with the assistant api. I ..."
+  },
+  {
+    "title": "Should I create my own LLM? : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cg6l7p/should_i_create_my_own_llm/",
+    "snippet": "Apr 29, 2024, · ,I am trying to build something that will help students to know more about the admissions and stuff. Although, I don't want to build it using RAG ..."
+  },
+  {
+    "title": "Speed up Agents : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1adqrwj/speed_up_agents/",
+    "snippet": "Jan 29, 2024, · ,is because of the Rag too complex? how could I drastically shorten my prompt but keeping clear schema for data extraction? Thanks you all ..."
+  },
+  {
+    "title": "How to build an agent that goes back and forth into the vector db",
+    "link": "https://www.reddit.com/r/LangChain/comments/1ce8lzd/how_to_build_an_agent_that_goes_back_and_forth/",
+    "snippet": "Apr 27, 2024, · ,I have a complex documentation and multiple requirements ... You can just do RAG with chat history. You ... How to use Q&A data to build a RAG ..."
+  },
+  {
+    "title": "What makes langchain so useful? I'm new to it and don't get it - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1chpywv/what_makes_langchain_so_useful_im_new_to_it_and/",
+    "snippet": "May 1, 2024, · ,... implement function calling/tool calling. Easier to implement complex RAG solutions with it. Upvote 2. Downvote Reply reply. Award 0 awards"
+  },
+  {
+    "title": "Let's dicsuss this sub's negative feelings towards LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/194u376/lets_dicsuss_this_subs_negative_feelings_towards/",
+    "snippet": "Jan 12, 2024, · ,... RAG process. Right at the beginning o the ... It's difficult to use and even more difficult to understand the documentation. ... u/Complex-Many1607 ..."
+  },
+  {
+    "title": "Suggestion for robust RAG which can handel 5000 pages of pdf",
+    "link": "https://www.reddit.com/r/LangChain/comments/1b5d1m7/suggestion_for_robust_rag_which_can_handel_5000/",
+    "snippet": "Mar 3, 2024, · ,I'm working on a basic RAG which is really good with a snaller pdf like 15-20 pdf but as soon as i go about 50 or 100 the reterival doesn't ...,Missing:  ,complex, | Show results with:,complex"
+  },
+  {
+    "title": "LangChain SQL & Mistral - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cod9zr/langchain_sql_mistral/",
+    "snippet": "May 10, 2024, · ,... pipelines: https://www.metadocs.co/2024/05/07/create-a-complex-rag-chat-app-with-langchain-lcel/. Good luck. Upvote 2. Downvote Reply reply"
+  },
+  {
+    "title": "Are all embeddings just bad for retrieval? : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1bbj5hu/are_all_embeddings_just_bad_for_retrieval/",
+    "snippet": "Mar 10, 2024, · ,I'm an experienced software engineer building a practice RAG stack application to learn more about integrating with LLMs. ... It is super complex, ..."
+  },
+  {
+    "title": "r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/new/",
+    "snippet": "I wanted to ask, based on your experience, what are the best open-source LLMs I can use to build complex agents? ... RAG as a APA direct text quotes generator."
+  },
+  {
+    "title": "Langchain is pointless - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/13fcw36/langchain_is_pointless/",
+    "snippet": "May 12, 2023, · ,... difficult. The optimal abstraction for LLM ... Fixing this fundamental issue would be very difficult. ... I was recently trying to build a RAG on ..."
+  },
+  {
+    "title": "Azure Search vs. Pinecone? : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/17mxe9t/azure_search_vs_pinecone/",
+    "snippet": "Nov 3, 2023, · ,11 votes, 15 comments. I have so far been successful in creating RAG pipeline with nice performing conversational bot with Azure Search ..."
+  },
+  {
+    "title": "Which approach would be better for embedding my documents ...",
+    "link": "https://www.reddit.com/r/LangChain/comments/16pedi1/which_approach_would_be_better_for_embedding_my/",
+    "snippet": "Sep 22, 2023, · ,It's a massive topic and can get incredibly complex. ... He has several great tutorials in QA bots over vector DB, he uses Pinecone, which we also ..."
+  },
+  {
+    "title": "Chatbot in production : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1bkmo3b/chatbot_in_production/",
+    "snippet": "Mar 22, 2024, · ,... RAG pipeline works and adjust, tune it to ... But when faced with a real and likely complex use case, you're on your own. ... RAG pipeline)."
+  },
+  {
+    "title": "LLMs frameworks (langchain, llamaindex, griptape, autogen, crewai ...",
+    "link": "https://www.reddit.com/r/LangChain/comments/1c6zktz/llms_frameworks_langchain_llamaindex_griptape/",
+    "snippet": "Apr 18, 2024, · ,Our system (which is a large project to get a fortune 1000 into the AI age) is complex ... Like a RAG with a vector DB is litterally 10 lines of ..."
+  },
+  {
+    "title": "Show and Tell: What have you built with LLMs? : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1958znq/show_and_tell_what_have_you_built_with_llms/",
+    "snippet": "Jan 12, 2024, · ,Have you developed something unique, solved a complex problem, or simply experimented with something fun? ... Also RAG is very sensitive to ..."
+  },
+  {
+    "title": "What other AI apps are being built. : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/193fppt/what_other_ai_apps_are_being_built/",
+    "snippet": "Jan 10, 2024, · ,I am seeing everywhere saying we are building AI apps but in reality i see only RAG ... RAG. Or am i ... complex tasks. So many guardrails ..."
+  },
+  {
+    "title": "What are u building these days? Are people using it? Please share",
+    "link": "https://www.reddit.com/r/LangChain/comments/1brhmsa/what_are_u_building_these_days_are_people_using/",
+    "snippet": "Mar 30, 2024, · ,... complex functions needed. E.g. I had a ... building https://structhub.io for data extraction for RAG ... I like it, but stuff outside of RAG is ..."
+  },
+  {
+    "title": "Langchain calling incorrect OpenAI API for GPT 3.5 turbo - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cqhs7x/langchain_calling_incorrect_openai_api_for_gpt_35/",
+    "snippet": "May 12, 2024, · ,... one: https://www.metadocs.co/2024/05/07/create-a-complex-rag-chat-app-with-langchain-lcel/. Good luck. Upvote 1. Downvote Reply reply"
+  },
+  {
+    "title": "Are LLM observability tools solutions in search of a problem? - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cw0mkt/are_llm_observability_tools_solutions_in_search/",
+    "snippet": "May 19, 2024, · ,But if you are building a complex architecture (RAG, chain of prompts with API calls, agents...) or you simply require high output quality ..."
+  },
+  {
+    "title": "What are Langchains biggest issues? - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1620zic/what_are_langchains_biggest_issues/",
+    "snippet": "Aug 26, 2023, · ,... RAG. Upvote 2. Downvote Reply reply. Award ... Very complicated, opaque and unnecessary for what it's trying to achieve in most cases. Also ..."
+  },
+  {
+    "title": "How are people processing PDFs, and how well is it working? - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1danr71/how_are_people_processing_pdfs_and_how_well_is_it/",
+    "snippet": "20 hours ago, · ,23 votes, 23 comments. We build a RAG search engine for Payroll companies. We ended up having to handle a bunch of PDF data, some of which ..."
+  },
+  {
+    "title": "How to optimize chunk size? : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/14add9h/how_to_optimize_chunk_size/",
+    "snippet": "Jun 15, 2023, · ,Cons: Might be complex to set up and requires multiple documents or data sources. ... RAG. Still need help? Upvote 1. Downvote ... This may help ..."
+  },
+  {
+    "title": "Langchain js version vs python version - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1akao53/langchain_js_version_vs_python_version/",
+    "snippet": "Feb 6, 2024, · ,I´m using it in \"production\" with cloud providers and never noticed any restrictions, but the use case isnt really complex like rag, but agents/ ..."
+  },
+  {
+    "title": "New to Langchain - how to build ecommerce chatbot? - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/144q7ob/new_to_langchain_how_to_build_ecommerce_chatbot/",
+    "snippet": "Jun 9, 2023, · ,... rag. Upvote 2. Downvote Reply reply. Award ... rag with it and when prices are needed the ... It's difficult to do well, such a bot would ..."
+  },
+  {
+    "title": "Just a question on LCEL vs RetrievalQA : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1colp4k/just_a_question_on_lcel_vs_retrievalqa/",
+    "snippet": "May 10, 2024, · ,... complex-rag-chat-app-with-langchain-lcel/?amp=1. Upvote 1. Downvote ... Yes, it is a bit difficult at the beginning but super powerful. That is ..."
+  },
+  {
+    "title": "Alternatives to LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/17hdctv/alternatives_to_langchain/",
+    "snippet": "Oct 27, 2023, · ,... complex. Reply reply. Award 0 awards. Share ... buildsmol. • 7mo ago. This is the exact reason I wrote this tutorial on RAG: https:// ..."
+  },
+  {
+    "title": "SQL Agent in production? : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1bzn1yw/sql_agent_in_production/",
+    "snippet": "Apr 9, 2024, · ,I then use simple RAG to provide ... Or is the RAG only used when it is asked ... At my company we found the SQL databases just too complex ..."
+  },
+  {
+    "title": "Chroma retriever/CSV Agent giving poor results, any advice on this?",
+    "link": "https://www.reddit.com/r/LangChain/comments/194xwhi/chroma_retrievercsv_agent_giving_poor_results_any/",
+    "snippet": "Jan 12, 2024, · ,rag will fail, if you are going towards bit complex queries on a csv, and imagine you want to join multiple csv files using primary and foreign ..."
+  },
+  {
+    "title": "chatbot that can be corrected by users : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cwk82e/chatbot_that_can_be_corrected_by_users/",
+    "snippet": "May 20, 2024, · ,... rag engine. I think it's best to assume ... A more complex one would be: Query the FAQ ... In normal RAG agent, you do query over your ..."
+  },
+  {
+    "title": "Using lower-level tools makes better GenAI apps: an alternative to ...",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cj7j7y/using_lowerlevel_tools_makes_better_genai_apps_an/",
+    "snippet": "May 3, 2024, · ,... complex features yourself. I hope you'll ... Can you make similar video for agents ? Bcoz every usecase evolve from naive rag to multi agent ..."
+  },
+  {
+    "title": "What storage/ search are you using for retrieval : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1b1x880/what_storage_search_are_you_using_for_retrieval/",
+    "snippet": "Feb 28, 2024, · ,The most complex and convoluted API due to GraphQL interface they use. ... Yes, but not with respect to LLMs or RAG ... I use Chromadb for my rag ..."
+  },
+  {
+    "title": "Parsing solutions for PDF : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cyplp8/parsing_solutions_for_pdf/",
+    "snippet": "May 23, 2024, · ,Been struggling with parsing pdf with complex layout, table, imagines ... Been struggling with parsing pdf with complex ... PDF to json for RAG ..."
+  },
+  {
+    "title": "Struggling with LangChain's learning curve - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/197u4wp/struggling_with_langchains_learning_curve/",
+    "snippet": "Jan 16, 2024, · ,and make/find a langchain-app RAG'd chat app to help you learn langchain. It's turtles all the way down. Upvote 4. Downvote Reply reply"
+  },
+  {
+    "title": "Thoughts on DSPy : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cqexk6/thoughts_on_dspy/",
+    "snippet": "May 12, 2024, · ,Now, let's say after a month, model upgrades, and all of a sudden the accuracy of your RAG regresses. ... complex and poorly designed. I guess ..."
+  },
+  {
+    "title": "Where to hire LLM engineers who know tools like LangChain? Most ...",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cejzmq/where_to_hire_llm_engineers_who_know_tools_like/",
+    "snippet": "Apr 27, 2024, · ,Started learning python about 6 months ago and I already have completed a couple of RAG projects (albeit not too complex) and working on 3 more ..."
+  },
+  {
+    "title": "Need help : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1ba9kqk/need_help/",
+    "snippet": "Mar 9, 2024, · ,Is it possible with RAG approach? As we don ... Agents are slow and should only be used when complex reasoning is needed imo. ... I also don't see ..."
+  },
+  {
+    "title": "Is it possible for startups to build semantic search engines using ...",
+    "link": "https://www.reddit.com/r/LangChain/comments/17cwajv/is_it_possible_for_startups_to_build_semantic/",
+    "snippet": "Oct 21, 2023, · ,LLMWare is a very easy to use end to end RAG platform for semantic search retrieval (and other more complex LLM apps) and has native parsers ..."
+  },
+  {
+    "title": "Processing of PDFs : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1b0ezm6/processing_of_pdfs/",
+    "snippet": "Feb 26, 2024, · ,We are doing RAG on ecological reports. ... RAG has a billion use cases with proprietary ... It can handle complex tables and good part is it ..."
+  },
+  {
+    "title": "preserving the Gemini state with Langchain for caching responses",
+    "link": "https://www.reddit.com/r/LangChain/comments/1cbf1au/preserving_the_gemini_state_with_langchain_for/",
+    "snippet": "Apr 24, 2024, · ,... rag myself manually, i am all up for that solution! Upvote 1 ... I have a pretty complex langgraph setup so I'll try to implement it in Burr ..."
+  },
+  {
+    "title": "Need help regarding vector DBs : r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/comments/1908cyz/need_help_regarding_vector_dbs/",
+    "snippet": "Jan 6, 2024, · ,In RAG You use the embedding to find a ... Best open source models to build complex agents: ... RAG for IM chat logs. 3 upvotes · 1 comment. r ..."
+  },
+  {
+    "title": "r/LangChain - Reddit",
+    "link": "https://www.reddit.com/r/LangChain/",
+    "snippet": "It seems like quite a complex thing to implement. And then in that case, rather than using checkpointers, maybe it might be simpler to maintain a chat history ..."
+  },
+  {
+    "title": "Am I the only one who feels LangGraph documentation and tutorials ...",
+    "link": "https://www.reddit.com/r/LangChain/comments/1d4lwt0/am_i_the_only_one_who_feels_langgraph/",
+    "snippet": "May 31, 2024, · ,Watching anything put out by landchain is far too complex. ... https://github.com/DAGWorks-Inc/burr/tree/main/examples/conversational-rag/ ..."
+  }
+]

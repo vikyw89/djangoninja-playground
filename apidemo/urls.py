@@ -15,9 +15,12 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 
+import os
+from typing import Annotated
 from django.contrib import admin
 from django.urls import path
-from ninja import NinjaAPI
+from ninja import Field, Form, NinjaAPI, Schema
+
 
 api = NinjaAPI()
 
@@ -26,19 +29,15 @@ api = NinjaAPI()
 async def add(request, a: int, b: int):
     return a + b
 
-import asyncio
+class LLMTextInput(Schema):
+    text: Annotated[str,Field(description="Text to send to LLM")]
 
-import time
-
-@api.get("/say-after-sync")
-def say_after(request, delay: int, word: str):
-    time.sleep(delay)
-    return {"saying": word}
-
-@api.get("/say-after-async")
-async def say_after(request, delay: int, word: str):
-    await asyncio.sleep(delay)
-    return {"saying": word}
+@api.post(path="/llmtext",response=str)
+async def llmtext(request, form:Form[LLMTextInput]):
+    from llmtext.llms.openai import OpenaiLLM
+    llm = OpenaiLLM(api_key=os.getenv("OPENAI_API_KEY"))
+    response = await llm.arun(text=input)
+    return response
 
 urlpatterns = [
     path("admin/", admin.site.urls),
